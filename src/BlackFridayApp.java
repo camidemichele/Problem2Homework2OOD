@@ -5,7 +5,7 @@ public class BlackFridayApp {
         // Create the main category
         Category blackFriday = new Category("Black Friday Deals");
 
-        // Create the smaller categories
+        // Create the sm
         Category electronics = new Category("Electronics");
         Category clothing = new Category("Clothing");
 
