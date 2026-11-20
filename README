@@ -1,0 +1,6 @@
+For this problem it was asked to make a Black Friday shopping application using Composite and Observer.
+Composite because the idea was to organize products into categories, and categories could also have other categories inside them.
+Observer because it was asked to notify customers whenever there was a new deal and whenever we hear like notifications its almost always observer.
+I used BlackFridayDeals to store the subscribed customers in a list and notify them using a for loop.
+In the Main I created V, JK, and Jimin, but only V and JK subscribed, so Jimin doesn't receive notifications.
+I used the homework instructions, the slides and the prevuos code weve done in class.
